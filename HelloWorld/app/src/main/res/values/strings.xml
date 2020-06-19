@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Hello World from Java</string>
+    <string name="app_name">Java</string>
+    <string name="message">Hello World from Java</string>
 </resources>
