@@ -6,7 +6,11 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4d856eb-1f9a-47f0-88aa-47f6bf869590" name="Default Changelist" comment="" />
+    <list default="true" id="b4d856eb-1f9a-47f0-88aa-47f6bf869590" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -119,5 +124,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="732" y="325" key="SettingsEditor" timestamp="1592883079273">
+      <screen x="0" y="23" width="2560" height="1361" />
+    </state>
+    <state x="732" y="325" key="SettingsEditor/0.23.2560.1361@0.23.2560.1361" timestamp="1592883079273" />
+    <state x="901" y="518" key="com.intellij.ide.util.TipDialog" timestamp="1592882114444">
+      <screen x="0" y="23" width="2560" height="1361" />
+    </state>
+    <state x="901" y="518" key="com.intellij.ide.util.TipDialog/0.23.2560.1361@0.23.2560.1361" timestamp="1592882114444" />
   </component>
 </project>
