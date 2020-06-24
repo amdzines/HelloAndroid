@@ -7,8 +7,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4d856eb-1f9a-47f0-88aa-47f6bf869590" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/amdzines/youtubemockup/LinkActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_link.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/src/androidTest/java/com/amdzines/linking/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/src/main/java/com/amdzines/linking/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/app/src/test/java/com/amdzines/linking/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkActivity/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +88,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-217772961">
+      <recent name="com.amdzines.youtubemockup" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -129,9 +177,9 @@
       <screen x="0" y="23" width="2560" height="1361" />
     </state>
     <state x="732" y="325" key="SettingsEditor/0.23.2560.1361@0.23.2560.1361" timestamp="1592883079273" />
-    <state x="901" y="518" key="com.intellij.ide.util.TipDialog" timestamp="1592882114444">
+    <state x="901" y="518" key="com.intellij.ide.util.TipDialog" timestamp="1592970475399">
       <screen x="0" y="23" width="2560" height="1361" />
     </state>
-    <state x="901" y="518" key="com.intellij.ide.util.TipDialog/0.23.2560.1361@0.23.2560.1361" timestamp="1592882114444" />
+    <state x="901" y="518" key="com.intellij.ide.util.TipDialog/0.23.2560.1361@0.23.2560.1361" timestamp="1592970475399" />
   </component>
 </project>
