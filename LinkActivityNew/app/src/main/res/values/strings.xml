@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Button Click</string>
+    <string name="screen_title">Better Reducers With Immer</string>
+    <string name="screen_copy">In this article, we’re going to learn how to use Immer to write reducers. When working with React, we maintain a lot of state. To make updates to our state, we need to write a lot of reducers. Manually writing reducers results in bloated code where we have to touch almost every part of our state. This is tedious and error-prone. In this article, we’re going to see how Immer brings more simplicity to the process of writing state reducers.</string>
+    <string name="second_screen">This is the second activity</string>
+    <string name="button_click">Next Screen</string>
 </resources>
