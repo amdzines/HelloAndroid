@@ -7,8 +7,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4d856eb-1f9a-47f0-88aa-47f6bf869590" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Topic5/app/src/main/res/drawable/rounded_w_border.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkActivityNew/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkActivityNew/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Topic5/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Topic5/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Topic5/app/src/main/res/drawable/ringbutton.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Topic5/app/src/main/res/drawable/ringbutton.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Topic5/app/src/main/res/drawable/roundedbutton.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Topic5/app/src/main/res/drawable/roundedbutton.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Topic5/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Topic5/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Topic5/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Topic5/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Topic5/app/src/main/res/values/dimensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Topic5/app/src/main/res/values/dimensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Topic5/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Topic5/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

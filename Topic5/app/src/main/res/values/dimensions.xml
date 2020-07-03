@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Topic 5</string>
+    <dimen name="def_padding">8dp</dimen>
+    <dimen name="parent_margin">16dp</dimen>
 </resources>

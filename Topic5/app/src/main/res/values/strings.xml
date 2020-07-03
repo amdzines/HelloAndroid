@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Topic 5</string>
+    <string name="btn_clk">Hire me</string>
+    <string name="screen_title">Find amazing designers for hire</string>
 </resources>
