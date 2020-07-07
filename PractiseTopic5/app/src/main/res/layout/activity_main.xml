@@ -33,7 +33,7 @@
             android:layout_margin="@dimen/parent_margin"
             android:background="@drawable/button"
             android:text="@string/btn_txt"
-            android:textColor="@color/White"
+            android:textColor="@color/White"/>
         <Button
             android:id="@+id/btn_Shap"
             android:layout_width="match_parent"
@@ -50,13 +50,7 @@
             android:background="@color/colorAccent"
             android:textColor="@color/White"
             android:text="@string/btn_txt"/>
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            style="@style/miniButton"/>
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            style="@style/miniButton"/>
+        <Button style="@style/miniButton"/>
+        <Button style="@style/miniButton"/>
     </LinearLayout>
 </ScrollView>
