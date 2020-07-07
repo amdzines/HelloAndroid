@@ -9,7 +9,6 @@
     <style name="miniButton">
         <item name="android:textColor">@color/White</item>
         <item name="android:textSize">14sp</item>
-        <item name="android:background">@color/colorPrimary</item>
         <item name="android:padding">@dimen/def_padding</item>
         <item name="android:layout_margin">@dimen/parent_margin</item>
         <item name="android:text">@string/btn_txt</item>
