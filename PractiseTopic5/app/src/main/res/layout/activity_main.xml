@@ -34,7 +34,6 @@
             android:background="@drawable/button"
             android:text="@string/btn_txt"
             android:textColor="@color/White"
-            android:id="@+id/button_id"/>
         <Button
             android:id="@+id/btn_Shap"
             android:layout_width="match_parent"
