@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorBg"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".MainActivity">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/head_one"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_margin="@dimen/parent_margin"
+            android:textSize="16sp" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/parent_margin"
+            android:background="@drawable/button"
+            android:text="@string/btn_txt"
+            android:textColor="@color/White"
+            android:id="@+id/button_id"/>
+        <Button
+            android:id="@+id/btn_Shap"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_txt"
+            android:layout_margin="@dimen/parent_margin"
+            android:textColor="@color/White"
+            android:background="@drawable/shape"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/def_padding"
+            android:layout_margin="@dimen/parent_margin"
+            android:background="@color/colorAccent"
+            android:textColor="@color/White"
+            android:text="@string/btn_txt"/>
+    </LinearLayout>
+</ScrollView>
