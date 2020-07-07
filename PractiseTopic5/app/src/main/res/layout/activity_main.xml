@@ -50,5 +50,13 @@
             android:background="@color/colorAccent"
             android:textColor="@color/White"
             android:text="@string/btn_txt"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/miniButton"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/miniButton"/>
     </LinearLayout>
 </ScrollView>
